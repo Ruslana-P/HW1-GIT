@@ -1,0 +1,35 @@
+8702efa HEAD@{0}: checkout: moving from feature2 to develop
+24bbdad HEAD@{1}: checkout: moving from feature1 to feature2
+d3274b4 HEAD@{2}: checkout: moving from master to feature1
+71dd46c HEAD@{3}: checkout: moving from develop to master
+8702efa HEAD@{4}: merge feature4: Fast-forward
+66a6bfb HEAD@{5}: checkout: moving from feature4 to develop
+8702efa HEAD@{6}: checkout: moving from develop to feature4
+66a6bfb HEAD@{7}: checkout: moving from feature4 to develop
+8702efa HEAD@{8}: rebase finished: returning to refs/heads/feature4
+8702efa HEAD@{9}: rebase: commit for feature4
+66a6bfb HEAD@{10}: rebase: checkout develop
+9b8b2cd HEAD@{11}: checkout: moving from develop to feature4
+66a6bfb HEAD@{12}: merge feature3: Fast-forward
+71dd46c HEAD@{13}: checkout: moving from feature4 to develop
+9b8b2cd HEAD@{14}: commit: commit for feature4
+71dd46c HEAD@{15}: checkout: moving from develop to feature4
+71dd46c HEAD@{16}: checkout: moving from feature3 to develop
+66a6bfb HEAD@{17}: commit: commit changes
+71dd46c HEAD@{18}: checkout: moving from develop to feature3
+71dd46c HEAD@{19}: checkout: moving from master to develop
+71dd46c HEAD@{20}: merge develop: Fast-forward
+309a0a1 HEAD@{21}: checkout: moving from develop to master
+71dd46c HEAD@{22}: commit (merge): Merge branches 'feature1' and 'feature2' into develop
+f1c7952 HEAD@{23}: reset: moving to HEAD
+f1c7952 HEAD@{24}: checkout: moving from feature2 to develop
+24bbdad HEAD@{25}: commit: point 10
+f1c7952 HEAD@{26}: checkout: moving from develop to feature2
+f1c7952 HEAD@{27}: checkout: moving from feature1 to develop
+d3274b4 HEAD@{28}: commit: pictures in html
+3671e7a HEAD@{29}: commit: commit pictures
+f1c7952 HEAD@{30}: checkout: moving from develop to feature1
+f1c7952 HEAD@{31}: commit: commit index.html
+309a0a1 HEAD@{32}: checkout: moving from master to develop
+309a0a1 HEAD@{33}: checkout: moving from master to master
+309a0a1 HEAD@{34}: commit (initial): first commit
